@@ -6,6 +6,6 @@ Fixes audio issues where custom sounds or music are not audible.
 
 ## How to use:
 
-1. Easy option: download and run winterwarfix.exe and follow the instructions.
+1. Easy option: download and run [winterwarfix.exe](https://github.com/tuokri/rs2-ww-audio-cache-fix/releases/download/1.0/winterwarfix.exe) and follow the instructions.
 2. Advanced option: clone this repository and run the winterwarfix.py script (requires Python 3.6 or greater).
 
